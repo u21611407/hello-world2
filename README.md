@@ -1,2 +1,2 @@
-# hello-world2
+よろしく# hello-world2
 はろーわーるど
